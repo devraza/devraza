@@ -3,8 +3,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 💼 &nbsp; Working on some of my own personal projects
-- 🏢 &nbsp; A founding member of [TeamColosseum](https://github.com/TeamColosseum)
-- ✍️ Mastering Pixel Art and learning Rust
+- 🏢 &nbsp; A founding member of [Team Scena](https://github.com/team-scena)
+- ✍️ &nbsp; Mastering Pixel Art and learning Rust
 
 <h3> 🛠 &nbsp;Developer Stack</h3>
 
