@@ -1,10 +1,10 @@
 <h2> Hey, I'm Devraza!</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👨🏻‍💻 &nbsp;What I'm up to </h3>
 
 - 💼 &nbsp; Working on some of my own personal projects
-- 🏢 &nbsp; A founding member of [Team Scena](https://github.com/team-scena)
-- ✍️ &nbsp; Mastering Pixel Art and learning Rust
+- 🃏 &nbsp; Creating a legendery Pokémon TCG Collection
+- ✍️ &nbsp; Mastering Pixel Art and Rust
 
 <h3> 🛠 &nbsp;Developer Stack</h3>
 
@@ -35,8 +35,6 @@
 <br>
 
 <p align="center">
-<a href="https://twitch.tv/devraza"><img alt="Twitch" src="https://img.shields.io/badge/devraza-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"></a>
 <a href="https://patreon.com/devraza"><img alt="Patreon" src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"></a>
-<a href="mailto:devraza@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 <a href="https://www.youtube.com/channel/UCFkDnXhTMsIcUuYY6X0oR-A/"><img alt="YouTube" src="https://img.shields.io/badge/devraza-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
 </p>
