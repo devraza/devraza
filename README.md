@@ -3,8 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;What I'm up to </h3>
 
 - 💼 &nbsp; Working on some of my own personal projects
-- 🃏 &nbsp; Creating a legendery Pokémon TCG Collection
-- ✍️ &nbsp; Mastering Pixel Art and Rust
+- ✍️ &nbsp; Mastering Pixel Art, Rust, and C
 
 <h3> 🛠 &nbsp;Developer Stack</h3>
 
