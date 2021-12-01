@@ -3,7 +3,8 @@
 <h3> 👨🏻‍💻 &nbsp;What I'm up to </h3>
 
 - 💼 &nbsp; Working on some of my own personal projects
-- ✍️ &nbsp; Mastering Pixel Art, Rust, and C
+- ✍️ &nbsp; Mastering Pixel Art
+- 🏎️ &nbsp; Learning the basics of Swift
 
 <h3> 🛠 &nbsp;Developer Stack</h3>
 
