@@ -37,6 +37,5 @@
 <br>
 
 <p align="center">
-<a href="https://patreon.com/devraza"><img alt="Patreon" src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"></a>
 <a href="https://www.youtube.com/channel/UCFkDnXhTMsIcUuYY6X0oR-A/"><img alt="YouTube" src="https://img.shields.io/badge/devraza-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
 </p>
