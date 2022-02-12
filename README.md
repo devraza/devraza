@@ -5,7 +5,7 @@
 
 - 💼 &nbsp; Working on some of my own personal projects
 - ✍️ &nbsp; Learning Pixel Art
-- 🏎️ &nbsp; Helping with a Terraria mod
+- 🏎️ &nbsp; Learning the basics of pentesting
 
 <h3> 🛠 &nbsp;Developer Stack</h3>
 
