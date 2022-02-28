@@ -29,9 +29,13 @@
   ![Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
   ![Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
-<a href="https://github.com/devraza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devraza&show_icons=true&theme=tokyonight"/>
-</a>
+
+<p align="center">
+  <a href="https://github.com/devraza">
+    <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=devraza&show_icons=true&theme=dracula"/>
+    <img height="190px" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=devraza&repo=catchtwo&theme=dracula"/>
+  </a>
+</p>
 
 <br/>
 <br>
