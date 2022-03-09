@@ -31,7 +31,6 @@
 
 
 <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=devraza&show_icons=true&theme=dracula"/> <br>
-<img height="190px" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=devraza&repo=catchtwo&theme=dracula"/>
 
 <br/>
 <br>
