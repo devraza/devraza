@@ -1,13 +1,13 @@
 <h2>Hey, I'm Devraza!</h2>
 <p><img src="https://gpvc.arturio.dev/devraza" alt="Visitors"></a>
 
-<h3> 👨🏻‍💻 &nbsp;What I'm up to </h3>
+<h3>&nbsp;What I'm up to </h3>
 
 - 💼 &nbsp; Working on some of my own personal projects
 - ✍️ &nbsp; Learning Pixel Art
 - 🏎️ &nbsp; Learning the basics of pentesting
 
-<h3> 🛠 &nbsp;Developer Stack</h3>
+<h3>&nbsp;Developer Stack</h3>
 
 - <b>Languages</b> <br>
   ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -30,7 +30,7 @@
   ![Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 
-<img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=devraza&show_icons=true&theme=dracula"/> <br>
+<img src="https://github-readme-stats.vercel.app/api?username=devraza&show_icons=true&&bg_color=161320&text_color=D9E0EE&icon_color=89DCEB&title_color=DDB6F2"/> <br>
 
 <br/>
 <br>
