@@ -30,7 +30,7 @@
   ![Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=devraza&show_icons=true&&bg_color=161320&text_color=D9E0EE&icon_color=89DCEB&title_color=DDB6F2"/> <br>
+<img src="https://github-readme-stats.vercel.app/api?username=devraza&show_icons=true&theme=rose_pine"/> <br>
 
 <br/>
 <br>
