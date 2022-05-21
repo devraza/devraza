@@ -29,12 +29,4 @@
   ![Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
   ![Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=devraza&show_icons=true&theme=rose_pine"/> <br>
-
-<br/>
-<br>
-
-<p align="center">
-<a href="https://www.youtube.com/channel/UCFkDnXhTMsIcUuYY6X0oR-A/"><img alt="YouTube" src="https://img.shields.io/badge/devraza-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=devraza&show_icons=true&bg_color=161320&text_color=D9E0EE&icon_color=C9CBFF&title_color=F5E0DC"/> <br>
