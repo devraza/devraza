@@ -19,12 +19,12 @@ Lang          Rust
 <h3>&nbsp;Developer Stack</h3>
 
 - <b>Languages</b> <br>
-  ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-  ![Rust](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-89b4fa?style=for-the-badge&logo=python&logoColor=white)
+  ![Rust](https://img.shields.io/badge/rust-1e1e2e?style=for-the-badge&logo=rust&logoColor=white)
 - <b>Web</b> <br>
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/html5-fab387?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/css3-89b4fa?style=for-the-badge&logo=css3&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-cba6f7?style=for-the-badge&logo=bootstrap&logoColor=black)
 - <b>Version Control</b> <br>
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -37,4 +37,4 @@ Lang          Rust
   ![Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
   ![Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api?username=devraza&show_icons=true&bg_color=161320&text_color=D9E0EE&icon_color=C9CBFF&title_color=F5E0DC"/> <br>
+<img src="https://github-readme-stats.vercel.app/api?username=devraza&show_icons=true &bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5"/> <br>
