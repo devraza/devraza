@@ -1,18 +1,26 @@
 <h2>Hey, I'm Devraza!</h2>
-<p><img src="https://gpvc.arturio.dev/devraza" alt="Visitors"></a>
 
 <h3>&nbsp;What I'm up to </h3>
 
 - 💼 &nbsp; Working on some of my own personal projects
-- ✍️ &nbsp; Learning Pixel Art
-- 🏎️ &nbsp; Learning the basics of pentesting
+- ✍️ &nbsp; Improving my workflow
+- 🏎️ &nbsp; Planning a Linux distributon based on a declarative package manager.
+
+<h3>&nbsp;Information</h3>
+
+```
+OS            Void GNU/Linux
+WM            leftwm
+Editor        Helix
+Email         thedevraza@proton.me
+Lang          Rust
+```
 
 <h3>&nbsp;Developer Stack</h3>
 
 - <b>Languages</b> <br>
   ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
   ![Rust](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-  ![C#](https://img.shields.io/badge/csharp-189b48?style=for-the-badge&logo=csharp&logoColor=white)
 - <b>Web</b> <br>
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
