@@ -3,7 +3,7 @@
 ### What I'm up to
 
 - 💼 &nbsp; Working on some of my own personal projects
-- ✍️ &nbsp; Improving my workflow
+- ✍️ &nbsp; Improving my programming workflow
 - 🏎️ &nbsp; Planning a Linux distributon based on a declarative package manager.
 
 ### Information
@@ -13,7 +13,7 @@ OS            Void GNU/Linux
 WM            leftwm
 Editor        Helix / Neovide
 Email         thedevraza@proton.me
-Lang          Rust, Go, Python
+Lang          Rust, Go, and Python
 ```
 
 ### Statistics
