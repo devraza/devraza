@@ -1,21 +1,21 @@
-<h2>Hey, I'm Devraza!</h2>
+## Hey, I'm Devraza!</h2>
 
-<h3>&nbsp;What I'm up to </h3>
+### What I'm up to
 
 - 💼 &nbsp; Working on some of my own personal projects
 - ✍️ &nbsp; Improving my workflow
 - 🏎️ &nbsp; Planning a Linux distributon based on a declarative package manager.
 
-<h3>&nbsp;Information</h3>
+### Information
 
 ```
 OS            Void GNU/Linux
 WM            leftwm
-Editor        Helix
+Editor        Helix / Neovide
 Email         thedevraza@proton.me
-Lang          Rust
+Lang          Rust, Go, Python
 ```
 
-<h3>&nbsp;Statistics</h3>
+### Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=devraza&show_icons=true &bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5"/> <br>
+![GitHub README Statistics](https://github-readme-stats.vercel.app/api?username=devraza&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5 "GitHub Profile Statistics")
