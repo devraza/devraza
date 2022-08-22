@@ -11,13 +11,11 @@
 ```
 OS            Void GNU/Linux
 WM            leftwm
-Editor        Helix / Neovide
+Editor        DianciEmacs
 Email         thedevraza@proton.me
-Lang          Rust, Go, and Python
+Lang          Rust, Go, Python, Lua
 ```
 
 ### Statistics
 
-![GitHub README Statistics](https://github-readme-stats.vercel.app/api?username=devraza&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5 "GitHub Profile Statistics")
-
-https://pokepast.es/8adf97b28dc87cd4
+![GitHub README Statistics](https://github-readme-stats.vercel.app/api?username=devraza&show_icons=true&bg_color=1a1b26&text_color=a9b1d6&icon_color=7aa2f7&title_color=9ece6a "GitHub Profile Statistics")
