@@ -1,1 +1,1 @@
-![Information](drawing.png)
+![Information](info.png)
