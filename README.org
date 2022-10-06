@@ -1,8 +1,7 @@
-#+title: README
+#+title: Hey There! I'm Devraza
 #+author: devraza
 #+description: A README for my GitHub.
 
-* Hey there! I'm Devraza
 ** What do I do?
 I'm a *huge* fan of open-source software, in particular, Linux, Rust, and Bubbletea
 I like to work with [[https://github.com/devraza/fate][Fate]] (my Doom Emacs configuration), [[https://voidlinux.org][Void GNU/Linux]], and [[https://github.com/devraza/aweful][Aweful]] (my AwesomeWM configuration).
