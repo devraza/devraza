@@ -1,0 +1,18 @@
+#+title: README
+#+author: devraza
+#+description: A README for my GitHub.
+
+* Hey there! I'm Devraza
+** What do I do?
+I'm a *huge* fan of open-source software, in particular, Linux, Rust, and Bubbletea
+I like to work with [[https://github.com/devraza/fate][Fate]] (my Doom Emacs configuration), [[https://voidlinux.org][Void GNU/Linux]], and [[https://github.com/devraza/aweful][Aweful]] (my AwesomeWM configuration).
+
+** Languages I use
+I'm a huge fan of the following languages, and can half-truthfully say I know them very well:
++ E-Lisp
++ Rust
++ Lua
++ Go
+
+** Socials?
+You can contact me at any time at my email address: ~thedevraza@proton.me~
