@@ -4,7 +4,7 @@
 
 ** What do I do?
 I'm a *huge* fan of open-source software, in particular, Linux, Rust, and Bubbletea
-I like to work with [[https://github.com/devraza/fate][Fate]] (my Doom Emacs configuration), [[https://voidlinux.org][Void GNU/Linux]], and [[https://github.com/devraza/aweful][Aweful]] (my AwesomeWM configuration).
+I like to work with [[https://github.com/devraza/dianciemacs][dianciemacs]] (a minimal and elegant  Emacs configuration framework), [[https://voidlinux.org][Void GNU/Linux]], and [[https://github.com/devraza/aweful][Aweful]] (my AwesomeWM configuration).
 
 ** Languages I use
 I'm a huge fan of the following languages, and can half-truthfully say I know them very well:
