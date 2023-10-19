@@ -2,6 +2,10 @@
 #+author: devraza
 #+description: A README for my GitHub.
 
+#+begin_quote
+Note: I've decided to move to a more sustainable scheme of working. This includes things such as my website and e-mail. Will post any changes to my workflow.
+#+end_quote
+
 ** What do I do?
 I'm a *huge* fan of open-source software, in particular, Linux, Rust, and Bubbletea
 I like to work with [[https://github.com/devraza/dianciemacs][dianciemacs]] (my very own minimal and elegant  Emacs configuration framework), [[https://archlinux.org][Arch GNU/Linux]], and [[https://hyprland.org][Hyprland]].
