@@ -1,6 +1,6 @@
 # Devraza
 
-**I'm a moderately skilled programmer, beginner in the field of cybersecurity and aspiring graphic designer.
+I'm a moderately skilled programmer, beginner in the field of cybersecurity and aspiring graphic designer.
 [NixOS](https://nixos.org) is my operating system of choice, and [quark.nvim](https://git.devraza.duckdns.org/devraza/quark.nvim) (my bespoke distribution of [neovim](https://neovim.io)) is my text editor.
 
 I also happen to be a devoted rustacean and a devout follower of the self-hosted way of life.
