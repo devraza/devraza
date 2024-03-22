@@ -12,7 +12,7 @@ My skills in programming language I've used so far are as follows:
 
 However, I consider myself able to work to a reasonable degree with any modern programming language.
 
-Other *tools* that I can work with include `git`, `linux`, `inkscape`, and `GIMP`.**
+Other *tools* that I can work with include `git`, `linux`, `inkscape`, and `GIMP`.
 
 You can find my website [here](https://devraza.duckdns.org), where I make blog posts and showcase my projects.
 
