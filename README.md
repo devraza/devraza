@@ -15,3 +15,5 @@ However, I consider myself able to work to a reasonable degree with any modern p
 Other *tools* that I can work with include `git`, `linux`, `inkscape`, and `GIMP`.**
 
 You can find my website [here](https://devraza.duckdns.org), where I make blog posts and showcase my projects.
+
+![GitHub statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=devraza&size_weight=0&count_weight=1&layout=compact&theme=dark)
