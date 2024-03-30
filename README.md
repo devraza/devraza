@@ -16,4 +16,4 @@ Other *tools* that I can work with include `git`, `linux`, `inkscape`, and `GIMP
 
 You can find my website [here](https://devraza.duckdns.org), where I make blog posts and showcase my projects.
 
-![GitHub statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=devraza&size_weight=0.1&count_weight=0.9&layout=compact&theme=dark)
+![GitHub statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=devraza&size_weight=0.4&count_weight=0.6&layout=compact&theme=dark)
