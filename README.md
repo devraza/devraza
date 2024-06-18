@@ -1,4 +1,6 @@
-# Devraza
+# Hello!
+
+> **Please see my Forgejo [here](https://git.devraza.giize.com) for my software forge instead of viewing this GitHub account.**
 
 I'm a moderately skilled programmer, beginner in the field of cybersecurity and aspiring graphic designer.
 [NixOS](https://nixos.org) is my operating system of choice, and [radiant.nvim](https://git.devraza.duckdns.org/devraza/radiant.nvim) (my bespoke distribution of [neovim](https://neovim.io)) is my text editor.
