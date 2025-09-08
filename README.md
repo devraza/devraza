@@ -1,6 +1,6 @@
 # Hello!
 
-![Vector calligraphy of my name](./name-final.png)
+![Vector calligraphy of my name](./banner.png)
 
 > **Welcome to my personal software forge!**
 
