@@ -2,7 +2,8 @@
 
 ![Vector calligraphy of my name](./banner.png)
 
-> **Welcome to my personal software forge!**
+> **Note**
+> If you're viewing this from GitHub, please use [my Forgejo](https://git.devraza.giize.com/devraza) instead!
 
 You can find out more about me using my website [here](https://devraza.giize.com), where I make blog posts and showcase my projects.
 
